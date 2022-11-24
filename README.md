@@ -10,11 +10,7 @@ with experience in personal projects such as <a href="https://github.com/Ruben89
 <hr style='height: 1px;'>
 <div style='
 display=flex; 
-background-color: rgba(300, 300, 300, .50); 
 padding:18px; 
-border-radius:15px;
-box-shadow:8px 5px 8px #F0F3F4;
-backdrop-filter: blur(5px);
 margin:1rem'>
 
 <img src="src/img/python.png" alt='python' width="60rem"/>
