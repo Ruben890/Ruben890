@@ -13,7 +13,7 @@ display=flex;
 background-color: rgba(300, 300, 300, .50); 
 padding:18px; 
 border-radius:15px;
-box-shadow:8px 5px 8px #5D6D7E;
+box-shadow:8px 5px 8px #F0F3F4;
 backdrop-filter: blur(5px);
 margin:1rem'>
 
