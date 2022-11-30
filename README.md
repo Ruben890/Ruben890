@@ -11,7 +11,7 @@ with experience in personal projects such as <a href="https://github.com/Ruben89
 
 <div>
   <a href="https://github.com/Ruben890">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=Ruben890&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruben890&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben890&layout=compact&langs_count=16&theme=dracula"/>
 </div>
