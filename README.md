@@ -28,7 +28,7 @@ with experience in personal projects such as <a href="https://github.com/Ruben89
  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ruben890&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P>
   
-### 💻Lenguajes y hermanitas🧑‍💻:
+### 💻Languages ​​and little sisters🧑‍💻:
 <div style='
 display=flex; 
 padding:18px; 
