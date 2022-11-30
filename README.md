@@ -8,6 +8,7 @@ with experience in personal projects such as <a href="https://github.com/Ruben89
 </p>
 
 <hr style='height: 1px;'>
+<!-- estadísticas de githud sin separarar -->
 <!--
 <div align="center">
   <a href="https://github.com/Ruben890">
@@ -20,13 +21,14 @@ with experience in personal projects such as <a href="https://github.com/Ruben89
  
 ### 🏆Github Stats :
 
-
+<!-- estadísticas de githud sin separarar -->
 </br>
 <p align="center">
  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben890&theme=dracula"/>
  
  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ruben890&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P>
+
   
 ### 💻Languages ​​and little sisters🧑‍💻:
 <div style='
