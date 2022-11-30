@@ -8,17 +8,32 @@ with experience in personal projects such as <a href="https://github.com/Ruben89
 </p>
 
 <hr style='height: 1px;'>
-
+<!--
 <div align="center">
   <a href="https://github.com/Ruben890">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruben890&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben890&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
+
+ 
+### 🏆Github Stats :
+
+
+</br>
+<p align="center">
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben890&theme=dracula"/>
+ 
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ruben890&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P>
+  
+### 💻Lenguajes y hermanitas🧑‍💻:
 <div style='
 display=flex; 
 padding:18px; 
-margin:1rem'>
+margin:1rem'
+alinear = center >
 
 <img src="src/img/python.png" alt='python' width="60rem"/>
 
