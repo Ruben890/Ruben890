@@ -1,10 +1,17 @@
-### Hi, I'm Darlin Ruben.<img src="src/gif/gif.gif" width="50px">
+### Hi, I'm Darlin Ruben. <img src="src/gif/gif.gif" width="50px">
 
-
+### Junior Full Stack Developer. <img src="src/gif/giphy.gif" width="40px"><br>
 
 <p>
-Junior Full Stack Developer.<br>
-with experience in personal projects such as <a href="https://github.com/Ruben890/-python-django-crud-django-myql">CRUD</a>,   <a href="https://github.com/Ruben890/To-Do-list">TO DO LIST</a>, <a href="https://github.com/Ruben890/blog-python-Django">BLOG</a>,  and web application to <a href="https://github.com/Ruben890/Salary-Discount-Calculate">calculate salaries</a>. <img src="src/gif/giphy.gif" width="40px">
+Software developer in training
+search for employment opportunities
+strengthen my programming skills and
+gain work experience. with my ability
+of self-directed learning, was able
+learn about the field of technology and
+Discover that I am passionate about a field in
+constant and growth directed to the
+innovation with successful solutions.
 </p>
 
 <hr style='height: 1px;'>
