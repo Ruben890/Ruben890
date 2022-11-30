@@ -36,7 +36,3 @@ width="60rem"/>
 
 <img src="src/img/react.png" alt='Reactjs' width="60rem"/>
 </div>
-
-
-
-
