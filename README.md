@@ -29,6 +29,6 @@ width="60rem"/>
 <img src="src/img/react.png" alt='Reactjs' width="60rem"/>
 </div>
 
-![Snake animation](https://github.com/Ruben890/Ruben890/main/github-contribution-grid-snake.svg)
+
 
 
