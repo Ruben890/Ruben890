@@ -13,13 +13,15 @@ Discover that I am passionate about a field in
 constant and growth directed to the
 innovation with successful solutions.
 </p>
+
 </br>
-<h2> contacts</h2>  <a href = "mailto:runben67nina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<h2> contacts: </h2>  <a href = "mailto:runben67nina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruben-nina-71b942190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 <hr style='height: 1px;'>
-<!-- estadísticas de githud sin separarar -->
+<!-- estadísticas de githud sin separar -->
 <!--
 <div align="center">
   <a href="https://github.com/Ruben890">
@@ -32,7 +34,7 @@ innovation with successful solutions.
  
 ### 🏆Github Stats :
 
-<!-- estadísticas de githud sin separarar -->
+<!-- estadísticas de githud separararadas -->
 </br>
 <p align="center">
  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben890&theme=dracula"/>
