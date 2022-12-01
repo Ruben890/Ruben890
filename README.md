@@ -41,7 +41,7 @@ innovation with successful solutions.
   </P>
 
   
-### 💻Languages ​​and little sisters🧑‍💻:
+### 💻language and tools🧑‍💻:
 <div style='
 display=flex; 
 padding:18px; 
