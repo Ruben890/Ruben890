@@ -53,6 +53,7 @@ alinear = center >
 <img src="src/img/Dj.png" alt='django' width="45rem">
 <img src="src/img/DRF.png" alt='django' width="70rem">
 
+<img src="src/img/mysql.png" alt='MYsql' width="60rem"/>
 <img src="src/img/JS.png" alt='javaScripts' width="60rem"/>
 
 <img src="src/img/html.png" alt='html' width="60rem"/>
@@ -60,7 +61,6 @@ alinear = center >
 width="60rem"/>
 <img src="src/img/bootstrap.png" alt='BOOTSTRAP' width="60rem"/>
 
-<img src="src/img/mysql.png" alt='MYsql' width="60rem"/>
 
 <img src="src/img/react.png" alt='Reactjs' width="60rem"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
