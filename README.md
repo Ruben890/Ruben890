@@ -51,7 +51,9 @@ alinear = center >
 <img src="src/img/python.png" alt='python' width="60rem"/>
 
 <img src="src/img/Dj.png" alt='django' width="45rem">
+<!--
 <img src="src/img/DRF.png" alt='django' width="70rem">
+-->
 
 <img src="src/img/mysql.png" alt='MYsql' width="60rem"/>
 <img src="src/img/JS.png" alt='javaScripts' width="60rem"/>
