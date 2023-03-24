@@ -1,6 +1,6 @@
 ### Hi, I'm Darlin Ruben. <img src="src/gif/gif.gif" width="50px">
 
-###Full Stack Developer. <img src="src/gif/giphy.gif" width="40px"><br>
+### FullStack Developer. <img src="src/gif/giphy.gif" width="40px"><br>
 
 <p>
 Software developer in training
