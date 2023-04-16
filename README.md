@@ -47,14 +47,12 @@ display=flex;
 padding:18px; 
 margin:1rem'
 alinear = center >
+ !--Fronted --! 
+<div>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" titel="HTML"/>
+  
+<div/>
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt='python'/>
-<img src="[src/img/Dj.png](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)" alt='django' />
-<img src="src/img/mysql.png" alt='MYsql' width="60rem"/>
-<img src="[src/img/JS.png](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt='javaScripts'/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt='html'/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt='CSS'/>
-<img src="[src/img/bootstrap.png](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)" alt='BOOTSTRAP'/>
-<img src="[src/img/react.png](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" alt='Reactjs'/>
+  
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
