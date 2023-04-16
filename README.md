@@ -48,7 +48,8 @@ padding:18px;
 margin:1rem'
 alinear = center >
 <h3>FRONTEND<h3/>
-<div style='dsiplay:flex; padding:12px margin:8px;>
+  
+<div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" titel="HTML"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" titel="CSS" />
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" titel="Bootstrap" />
