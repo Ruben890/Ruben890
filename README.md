@@ -48,6 +48,7 @@ padding:18px;
 margin:1rem'
 alinear = center >
 <h3>FRONTEND<h3/>
+<hr/>
   
 <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" titel="HTML"/>
