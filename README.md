@@ -17,10 +17,6 @@ innovation with successful solutions.
 <h2> contacts: </h2>  <a href = "mailto:runben67nina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/darlin-nina-71b942190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
-<h2>💼<a href="https://www.darlinrubennina.com/">Porfolio web</a></h2>
-
- 
  
 <hr style='height: 1px;'>
 <!-- estadísticas de githud sin separar -->
