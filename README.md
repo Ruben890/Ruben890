@@ -64,7 +64,6 @@ alinear = center >
   <div>
        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" titel="Python" />
        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" titel="Django"/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="DRF"/>
        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" titel="NodeJs"/>
        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" titel="MYSLQ"/>
        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="ExpreesJs">
