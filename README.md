@@ -3,15 +3,7 @@
 ### FullStack Developer. <img src="src/gif/giphy.gif" width="40px"><br>
 
 <p>
-Software developer in training
-search for employment opportunities
-strengthen my programming skills and
-gain work experience. with my ability
-of self-directed learning, was able
-learn about the field of technology and
-Discover that I am passionate about a field in
-constant and growth directed to the
-innovation with successful solutions.
+Fullstack developer with a solid foundation in key technologies. Focused on learning and applying knowledge in software development. Experience in hands-on projects, contributing to frontend and backend. My willingness to learn and grow makes me a valuable asset, ready to face new challenges and evolve in programming. Versatile skills to contribute to the success of development teams.
 </p>
 
 <h2> contacts: </h2>  <a href = "mailto:runben67nina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
