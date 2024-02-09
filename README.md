@@ -5,7 +5,7 @@
 <p>
 Fullstack developer with a solid foundation in key technologies. Focused on learning and applying knowledge in software development. Experience in hands-on projects, contributing to frontend and backend. My willingness to learn and grow makes me a valuable asset, ready to face new challenges and evolve in programming. Versatile skills to contribute to the success of development teams.
 </p>
-
+![Profile views](https://komarev.com/ghpvc/?username=Ruben890)
 <h2> contacts: </h2>  <a href = "mailto:runben67nina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/darlin-nina-71b942190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
