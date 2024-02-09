@@ -1,7 +1,7 @@
 ### Hi, I'm Darlin Ruben. 
 
 ### FullStack Developer. 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU1cHptdXMxcGUxNnVhb2Fub2hmYmMwZW1uN2ZtMjl0NTgzbjEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Nft Coding GIF" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU1cHptdXMxcGUxNnVhb2Fub2hmYmMwZW1uN2ZtMjl0NTgzbjEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" >
 
 
 Fullstack developer with a solid foundation in key technologies. Focused on learning and applying knowledge in software development. Experience in hands-on projects, contributing to frontend and backend. My willingness to learn and grow makes me a valuable asset, ready to face new challenges and evolve in programming. Versatile skills to contribute to the success of development teams.
