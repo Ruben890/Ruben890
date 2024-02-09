@@ -1,6 +1,8 @@
-### Hi, I'm Darlin Ruben. <img src="src/gif/gif.gif" width="50px">
+### Hi, I'm Darlin Ruben. 
+<img src="src/gif/gif.gif" width="50px">
 
-### FullStack Developer. <img src="src/gif/giphy.gif" width="40px"><br>
+### FullStack Developer. 
+<img src="src/gif/giphy.gif" width="40px"><br>
 
 Fullstack developer with a solid foundation in key technologies. Focused on learning and applying knowledge in software development. Experience in hands-on projects, contributing to frontend and backend. My willingness to learn and grow makes me a valuable asset, ready to face new challenges and evolve in programming. Versatile skills to contribute to the success of development teams.
 
