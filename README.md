@@ -1,4 +1,4 @@
-### Hi, I'm Darlin Ruben. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU1cHptdXMxcGUxNnVhb2Fub2hmYmMwZW1uN2ZtMjl0NTgzbjEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Nft Coding GIF" width="25px"  >
+### Hi, I'm Darlin Ruben. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU1cHptdXMxcGUxNnVhb2Fub2hmYmMwZW1uN2ZtMjl0NTgzbjEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Nft Coding GIF" width="50px"  >
 
 ### FullStack Developer. 
 
