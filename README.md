@@ -24,7 +24,7 @@ Fullstack developer with a solid foundation in key technologies. Focused on lear
 <div style='display:flex; padding:18px; margin:1rem; align-items: center'>
 
 <!-- FRONTEND -->
-<div>
+<div style="display:flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" />
@@ -35,7 +35,7 @@ Fullstack developer with a solid foundation in key technologies. Focused on lear
 </div>
   
 <!-- BACKEND -->
-<div>
+<div style="display:flex;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJs"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"/>
