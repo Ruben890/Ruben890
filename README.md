@@ -3,7 +3,11 @@
 ### FullStack Developer. 
 
 
-Fullstack developer with a solid foundation in key technologies. Focused on learning and applying knowledge in software development. Experience in hands-on projects, contributing to frontend and backend. My willingness to learn and grow makes me a valuable asset, ready to face new challenges and evolve in programming. Versatile skills to contribute to the success of development teams.
+I am a programmer with more than a year of experience in the development of modern and efficient solutions, specialized in C# and .NET Core. I have experience in the development of monolithic applications, applying Clean Code and Clean Architecture principles to ensure software maintainability and scalability. Currently, I am venturing into the world of microservices architectures, applying scalable and distributed design principles to develop innovative solutions.
+
+On the frontend, I use React, TypeScript and Tailwind CSS to create dynamic interfaces, optimized to deliver exceptional user experiences. I complement my technical profile with a solid knowledge in Docker for application containerization and deployment, and Linux, which allows me to handle development and production environments efficiently.
+
+My focus is on technical excellence, performance optimization and delivering high-impact solutions, tailored to the needs of each project.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ruben890)
 
