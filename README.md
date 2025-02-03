@@ -1,6 +1,6 @@
 ### Hi, I'm Darlin Ruben. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU1cHptdXMxcGUxNnVhb2Fub2hmYmMwZW1uN2ZtMjl0NTgzbjEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Nft Coding GIF" width="60px"  >
 
-### FullStack Developer. 
+### Backend Developer. 
 
 
 I am a programmer with more than a year of experience in the development of modern and efficient solutions, specialized in C# and .NET Core. I have experience in the development of monolithic applications, applying Clean Code and Clean Architecture principles to ensure software maintainability and scalability. Currently, I am venturing into the world of microservices architectures, applying scalable and distributed design principles to develop innovative solutions.
